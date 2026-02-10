@@ -1,0 +1,14 @@
+pandas
+google-api-python-client
+numpy
+nltk
+matplotlib
+seaborn
+scikit-learn
+wordcloud
+mlflow
+imblearn
+optuna 
+xgboost 
+imbalanced-learn
+lightgbm
