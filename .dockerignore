@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+
+# DVC
+.dvc/
+.dvcignore
+
+# Logs
+*.log
+errors.log
+model_building_errors.log
+model_evaluation_errors.log
+model_registration_errors.log
+preprocessing_errors.log
+
+# Data files (if large)
+notebook/
+data/raw/
+*.csv
+
+# Model artifacts (uncomment if you want to exclude them)
+# *.pkl
+
+# Chrome extension
+yt-chrome-plugin-frontend/
+
+# Documentation
+README.md
+*.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.bak

@@ -1,0 +1,2 @@
+2026-02-11 17:22:46,573 - model_building - ERROR - Error during TF-IDF transformation: 'clean_comment'
+2026-02-11 17:22:46,576 - model_building - ERROR - Failed to complete the feature engineering and model building process: 'clean_comment'

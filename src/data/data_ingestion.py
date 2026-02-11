@@ -95,7 +95,7 @@ def main():
         test_size = params['data_ingestion']['test_size']
           
         # Load data from local path
-        data_path = r'E:\Youtube_Sentiment_Insights\youtube_comments.csv'
+        data_path = r'E:\Youtube_Sentiment_Insights\youtube_preprocessing.csv'
         df = load_data(data_url=data_path)   # passing local path  
 
         # Preprocess the data

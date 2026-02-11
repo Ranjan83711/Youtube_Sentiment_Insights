@@ -63,7 +63,7 @@ def apply_tfidf(train_data: pd.DataFrame, max_features: int, ngram_range: tuple)
     try:
         vectorizer = TfidfVectorizer(max_features=max_features, ngram_range=ngram_range)
 
-        X_train = train_data['clean_comment'].values
+        X_train = train_data['comment'].values
         y_train = train_data['category'].values
 
         # Perform TF-IDF transformation
