@@ -12,3 +12,10 @@ optuna
 xgboost 
 imbalanced-learn
 lightgbm
+seaborn
+dvc
+dvc[s3]
+Flask
+Flask_Cors
+boto3
+joblib
