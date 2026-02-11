@@ -682,9 +682,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@ranjan83711](https://github.com/ranjan83711)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ranjan-kumar-yadav-05b62a231/)
-- Email: [EMAIL_ADDRESS](ranjan83711yadav@gmail.com)
+- GitHub: https://github.com/ranjan83711
+- LinkedIn: https://www.linkedin.com/in/ranjan-kumar-yadav-05b62a231/
+- Email: ranjan83711yadav@gmail.com
 
 ---
 
