@@ -681,7 +681,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Ranjan Yadav**
 - GitHub: https://github.com/ranjan83711
 - LinkedIn: https://www.linkedin.com/in/ranjan-kumar-yadav-05b62a231/
 - Email: ranjan83711yadav@gmail.com
